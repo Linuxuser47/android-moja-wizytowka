@@ -1,0 +1,21 @@
+# Pliki generowane przez Gradle i Android Studio – nie trafiają do repozytorium
+build/
+.gradle/
+.kotlin/
+local.properties
+
+# Ustawienia Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Inne pliki tymczasowe
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+.DS_Store
+Thumbs.db
+
+# Gradle Wrapper MUSI być w repozytorium (na wypadek globalnego ignorowania *.jar)
+!**/gradle/wrapper/gradle-wrapper.jar
