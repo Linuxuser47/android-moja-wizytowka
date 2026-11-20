@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moja Klasa</string>
+
+    <!-- ZMIEŃ poniższe teksty na swoje dane -->
+    <string name="nazwa_szkoly">Technikum Informatyczne nr 1</string>
+    <string name="klasa">Klasa 3TP</string>
+    <string name="kierunek">Technik programista</string>
+    <string name="opis_kierunku">Na tym kierunku uczę się tworzyć aplikacje mobilne i desktopowe, strony internetowe oraz bazy danych. Poznaję języki programowania, pracę w zespole i narzędzia używane przez programistów.</string>
+</resources>
