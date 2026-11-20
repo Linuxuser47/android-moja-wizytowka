@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moja Wizytówka</string>
+
+    <!-- ZMIEŃ poniższe dane na swoje (dane kontaktowe mogą być fikcyjne) -->
+    <string name="imie">Alex Nowak</string>
+    <string name="kierunek">Technik programista</string>
+    <string name="haslo">Aplikacje mobilne to moja pasja – od pomysłu na kartce do działającego kodu.</string>
+    <string name="telefon">+48 600 000 000</string>
+    <string name="email">alex.nowak@example.com</string>
+    <string name="github">github.com/alex-nowak</string>
+    <string name="opis_awatara">Awatar</string>
+</resources>
